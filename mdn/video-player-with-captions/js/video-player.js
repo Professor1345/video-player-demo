@@ -173,9 +173,9 @@
 
       // Turn off all subtitles
       // for (var i = 0; i < video.textTracks.length; i++) {
-      video.textTracks[0].mode = "showing";
-      video.textTracks[1].mode = "showing";
-      video.textTracks[2].mode = "showing";
+      // video.textTracks[0].mode = "showing";
+      // video.textTracks[1].mode = "showing";
+      // video.textTracks[2].mode = "showing";
       // }
 
       // Creates and returns a menu item for the subtitles language menu
